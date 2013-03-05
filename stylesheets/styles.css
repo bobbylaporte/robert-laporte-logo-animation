@@ -142,6 +142,13 @@ h3{
 }
 
 /* Specific */
+span{
+	display:block;
+	margin: 50px auto;
+	padding:40px;
+	font-size:50px;
+}
+
 #logo{
 	width: 440px;
 	height: 428px;
@@ -391,14 +398,14 @@ img{
 		-webkit-animation-duration: 50ms;
 		-webkit-animation-fill-mode: forwards;
 		-webkit-animation-timing-function: ease-in;
-		-webkit-animation-delay: 350ms;
+		-webkit-animation-delay: 450ms;
 	}
 #logo.lockup #l .bottom-top{
 		-webkit-animation-name:bottom-top_anim;
 		-webkit-animation-duration: 50ms;
 		-webkit-animation-fill-mode: forwards;
 		-webkit-animation-timing-function: ease-in;
-		-webkit-animation-delay: 350ms;
+		-webkit-animation-delay: 450ms;
 	}
 }
 

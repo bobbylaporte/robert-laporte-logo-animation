@@ -1,5 +1,7 @@
 $(document).ready(function(){
-  $('#logo').live('mouseenter',function(){
+
+
+  $('#logo').live('mouseenter touchstart',function(){
     $(this).attr('class','lockup');
   });
   $('#logo').live('mouseleave', function(){
