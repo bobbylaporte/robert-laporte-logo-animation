@@ -235,8 +235,8 @@ span{
 #l .top{
 	top: 12px;
 	right: 30px;
-	width: 137px;
-	height: 40px;
+	width: 136px;
+	height: 41px;
 	z-index: 0;
 	background-color: #dab41b;
 	-webkit-transform: skew(57deg);
@@ -258,10 +258,10 @@ span{
 	z-index: 10;
 }
 #l .side{
-	width: 61px;
+	width: 62px;
 	height: 100%;
 	top: 32px;
-	right: 136px;
+	right: 135px;
 	background-color: #9d8430;
 	-webkit-transform: skew(0,33deg);
 }
